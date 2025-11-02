@@ -4,7 +4,7 @@ Este proyecto implementa un flujo de autenticación y navegación con pestañas 
 
 ## Enlace a la Demostración en Video
 
-[text](https://youtube.com/shorts/9oMIOZd2e3E?si=3tzQMFwff2rj0tkk)
+[Enlace-Video](https://youtube.com/shorts/9oMIOZd2e3E?si=3tzQMFwff2rj0tkk)
 
 ## Implemetaciones Realizadas
 
